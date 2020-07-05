@@ -1,7 +1,9 @@
 ---
 title: Complex Arithmetic
 author: Adapted from Microsoft Quantum Katas
-difficulty: easy
+description: "This tutorial explains some of the mathematical background \
+required to work with quantum computing, such as imaginary and complex numbers."
 tags:
   - math
   - complex-number
+difficulty: easy
