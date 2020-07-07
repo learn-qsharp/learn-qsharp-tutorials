@@ -1,6 +1,6 @@
 ---
 title: Introduction to Linear Algebra
-author: Adapted from Microsoft Quantum Katas
+credits: Adapted from Microsoft Quantum Katas
 description: "Linear algebra is used to represent quantum states and \
 operations in quantum computing. This tutorial covers the basics, \
 including matrices and vectors."

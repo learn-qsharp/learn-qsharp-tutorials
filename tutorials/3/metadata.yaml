@@ -1,6 +1,6 @@
 ---
 title: Multi-Qubit Gates
-author: Adapted from Microsoft Quantum Katas
+credits: Adapted from Microsoft Quantum Katas
 description: "This tutorial follows the Single-qubit quantum gates tutorial, \
 and focuses on applying quantum gates to multi-qubit systems."
 tags:

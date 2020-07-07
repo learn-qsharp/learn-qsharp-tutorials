@@ -1,6 +1,6 @@
 ---
 title: Complex Arithmetic
-author: Adapted from Microsoft Quantum Katas
+credits: Adapted from Microsoft Quantum Katas
 description: "This tutorial explains some of the mathematical background \
 required to work with quantum computing, such as imaginary and complex numbers."
 tags:
